@@ -1,4 +1,4 @@
-# the-selenium-guidebook-the-complete-package-java-python-edition
+# The Selenium Guidebook (The Complete Package Java + Python Edition)
 The Selenium Guidebook offers comprehensive resources including video walkthroughs and cheat sheets tailored to meet the needs of testing professionals. From beginners seeking a smooth introduction to advanced testers embarking on automation implementation, to developers aiming to grasp Selenium and its effective implementation, our content is designed to cater to diverse skill levels and interests.
 It's no secret that Selenium has problems
 
